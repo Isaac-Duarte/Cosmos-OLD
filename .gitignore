@@ -1,0 +1,6 @@
+bin
+log
+obj
+*.pem
+.vscode
+Cosmos.tgn
